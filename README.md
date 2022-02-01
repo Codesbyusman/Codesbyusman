@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate on:
     - open soure projects
-    - cpp coding
+    - coding
     - web developmnet
     - security related 
 - 💬 Ask me about anything :)
